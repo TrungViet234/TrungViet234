@@ -49,7 +49,7 @@ I’m interested in **software quality, testing processes, and ensuring applicat
 
 # 📊 GitHub Stats
 
-![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrungViet234&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrungViet234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -61,7 +61,7 @@ I’m interested in **software quality, testing processes, and ensuring applicat
 
 # 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrungViet234&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrungViet234&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
