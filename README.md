@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Trần Trung Việt
 
-<!--
-**TrungViet234/TrungViet234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at **Saigon University**
 
-Here are some ideas to get you started:
+💻 Passionate about building web applications and learning modern software development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 IT Student at **Saigon University**
+- 💡 Interested in **Web Development, Backend Systems, and Software Engineering**
+- 🌱 Currently improving my skills in **Full Stack Development**
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- SQL
+
+### Frontend
+- React
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express
+
+### Database
+- PostgreSQL
+- Supabase
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux / WSL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrungViet234&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+📧 Email: tr.trungviet04@gmail.com  
+💼 LinkedIn:  
+https://www.linkedin.com/in/trung-viet-tran-44316236a/
+
+💻 GitHub:  
+https://github.com/TrungViet234
