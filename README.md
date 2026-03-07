@@ -1,51 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tran%20Trung%20Viet&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tran%20Trung%20Viet%20-%20Software%20Tester&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![Profile views](https://komarev.com/ghpvc/?username=TrungViet234&color=blue)
 
 # 👋 Hi, I'm Trần Trung Việt
 
 🎓 Information Technology Student at **Saigon University**  
-💻 Interested in **Web Development, Backend Systems, and Software Engineering**
+🔎 Aspiring **Software Tester / QA Engineer**
+
+I’m interested in **software quality, testing processes, and ensuring applications work reliably for users.**
 
 ---
 
 # 🚀 About Me
 
 - 🎓 IT Student at **Saigon University**
-- 💡 Interested in **Backend Development & Fullstack Development**
-- 🌱 Currently learning **Microservices, Cloud, and System Design**
-- 🛠 Building web applications and exploring new technologies
+- 🧪 Interested in **Software Testing / QA Engineering**
+- 🔍 Focused on **manual testing, API testing, and bug analysis**
+- 📚 Learning more about **testing processes, test case design, and system quality assurance**
+- 💡 Familiar with **web applications and backend APIs**
 
 ---
 
-# 🛠 Tech Stack
+# 🧪 Testing & QA Skills
 
-### Languages
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Functional Testing
+- API Testing
+- Basic understanding of Software Testing Life Cycle (STLC)
+
+---
+
+# 🛠 Tech & Tools
+
+### Languages / Technical Knowledge
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
 
+![Postman](https://skillicons.dev/icons?i=postman)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
@@ -79,4 +77,4 @@ https://github.com/TrungViet234
 
 ---
 
-⭐ Feel free to check out my repositories and projects!
+⭐ I’m interested in opportunities related to **Software Testing / QA Engineering**.
