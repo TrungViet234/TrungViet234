@@ -77,4 +77,9 @@ https://github.com/TrungViet234
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/TrungViet234/TrungViet234/blob/output/github-contribution-grid-snake.svg)
+
+---
 ⭐ I’m interested in opportunities related to **Software Testing / QA Engineering**.
