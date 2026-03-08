@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Trần Trung Việt
 
-🎓 Information Technology Student at **Saigon University**  
+🎓 Software Engineering Student at **Saigon University**  
 🔎 Aspiring **Software Tester / QA Engineer**
 
 I’m interested in **software quality, testing processes, and ensuring applications work reliably for users.**
@@ -12,7 +12,7 @@ I’m interested in **software quality, testing processes, and ensuring applicat
 
 # 🚀 About Me
 
-- 🎓 IT Student at **Saigon University**
+- 🎓 Software Engineering Student at **Saigon University**
 - 🧪 Interested in **Software Testing / QA Engineering**
 - 🔍 Focused on **manual testing, API testing, and bug analysis**
 - 📚 Learning more about **testing processes, test case design, and system quality assurance**
